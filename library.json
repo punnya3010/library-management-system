@@ -1,6 +1,28 @@
 
 {
-    "books": [],
-    "members": [],
-    "transactions": []
+    "101": {
+        "title": "Python Programming",
+        "author": "John Smith",
+        "available": true
+    },
+    "102": {
+        "title": "Data Structures",
+        "author": "Mark Allen",
+        "available": true
+    },
+    "103": {
+        "title": "Database Management System",
+        "author": "Korth",
+        "available": false
+    },
+    "104": {
+        "title": "Computer Networks",
+        "author": "Andrew Tanenbaum",
+        "available": true
+    },
+    "105": {
+        "title": "Operating System",
+        "author": "Abraham Silberschatz",
+        "available": false
+    }
 }
